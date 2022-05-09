@@ -3,6 +3,7 @@ import {keyEn} from "./keyEn.js";
 import {keyRu} from "./keyRu.js";
 
 const body = document.querySelector('body');
+
 body.style.display = 'grid';
 body.style.justifyItems = 'center';
 body.style.alignItems = 'center';
